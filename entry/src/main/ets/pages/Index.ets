@@ -9,8 +9,8 @@ struct Index {
         Text(this.message)
           .fontSize(50)
           .fontWeight(FontWeight.Bold)
-		  //字体颜色-蓝色
-          .fontColor(Color.Blue) 
+		      //字体颜色-蓝色
+          .fontColor(Color.Green)
 		  
       }
       .width('100%')
